@@ -16,6 +16,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 [https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
 
+![group + notif](https://github.com/user-attachments/assets/fc261686-062f-49fd-8ce0-49a8863f0f29)
 
 
 ```
